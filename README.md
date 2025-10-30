@@ -44,6 +44,9 @@ The model is built and tested using **NanoEdge AI Studio**, and sensor data is c
 
 ## 🧮 Step 2: USB Serial Data Logging
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4fcd68fd-74af-4042-8bcf-7eebfa0e6dc5" />
+This is done in the cubeide's terminal itself but you can use realterm for easier approach
+
 To collect data, connect the STM32 via USB. The accelerometer values are sent using the serial port.
 
 ### Example Output:
