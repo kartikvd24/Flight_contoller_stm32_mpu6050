@@ -85,9 +85,12 @@ To collect data, connect the STM32 via USB. The accelerometer values are sent us
 
 | Motion | Predicted Class | Confidence |
 |---------|----------------|-------------|
-| Rest    | Still          | 98% |
-| Tilt    | Tilt Detected  | 95% |
-| Shake   | Shake Detected | 97% |
+| Rest    | Stable          | 98% |
+| left Tilt    |  left Tilt Detected  | 95% |
+| flip   | flip Detected | 97% |
+| right Tlit   |  Right Tilt Detected | 97% |
+| up  | ascending | 100% |
+| down   | decsending | 97% |
 
 ---
 
