@@ -50,13 +50,6 @@ To collect data, connect the STM32 via USB. The accelerometer values are sent us
 2. Select the correct **COM Port**.  
 3. Set **Baud Rate** to **115200**, **Data bits:** 8, **Parity:** None, **Stop bits:** 1.  
 
-### 🔌 Connection Images
-| Step | Description | Image |
-|------|--------------|-------|
-| 1️⃣ | USB Board Connection | ![Board Connection](https://cdn-blog.adafruit.com/uploads/2019/06/Untitled-62.png) |
-| 2️⃣ | COM Port Selection | ![COM Port](https://cdn.sparkfun.com/assets/c/2/f/e/9/521e9419757b7fab768b456a.png) |
-| 3️⃣ | Serial Port Settings | ![Settings](https://onlinedocs.microchip.com/oxy/GUID-2C69F09A-8E1C-447C-B9AF-2583F373456B-en-US-4/GUID-500C517C-4F70-4E7A-9E12-67EC87F63C34-high.png) |
-
 ---
 
 ## 📈 Step 4: Data Collection & Import into NanoEdge
