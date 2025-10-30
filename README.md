@@ -79,8 +79,7 @@ To collect data, connect the STM32 via USB. The accelerometer values are sent us
 - Select the best performing model based on **accuracy** and **RAM/ROM usage**.
 - Export the generated `.lib` file and integrate into STM32CubeIDE.
 
-📊 **Model Performance View:**
-![Model Results](https://community.st.com/html/assets/legacy-nanoedge-ai-studio-1-4/Model_results.jpg)
+
 
 ---
 
