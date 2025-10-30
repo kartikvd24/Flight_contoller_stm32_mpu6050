@@ -106,3 +106,6 @@ Using `accX`, `accY`, and `accZ`, we trained and tested an embedded AI model cap
 - [NanoEdge AI Studio Documentation](https://wiki.st.com/stm32mcu/wiki/AI:NanoEdge_AI_Studio)
 - [Tera Term Download Page](https://ttssh2.osdn.jp/)
 - [STM32CubeIDE User Guide](https://www.st.com/en/development-tools/stm32cubeide.html)
+
+
+Also there is a video attached in the files you can go through the working of the project.
