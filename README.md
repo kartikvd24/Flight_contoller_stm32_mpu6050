@@ -68,7 +68,8 @@ To collect data, connect the STM32 via USB. The accelerometer values are sent us
 - Label datasets for each motion class (e.g., still, tilt, shake).
 
 📘 **Data Import Interface:**
-![Data Import](https://community.st.com/html/assets/legacy-nanoedge-ai-studio-1-4/Import_data.jpg)
+![Data Import]<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/afd7e60d-9b39-476b-9863-3d924f03a5e7" />
+
 
 ---
 
