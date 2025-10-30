@@ -34,6 +34,12 @@ The model is built and tested using **NanoEdge AI Studio**, and sensor data is c
 📘 **NanoEdge AI Studio Interface:**
 ![NanoEdge AI Studio](https://community.st.com/html/assets/legacy-nanoedge-ai-studio-1-4/Model_creation.jpg)
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/534cdb3e-375a-4a8a-88f4-74fe376ad685" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/738b0502-1b80-4c71-b0cf-165acc85e5eb" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c4e6388d-8859-4845-a564-a3800da1b4fa" />
+
 ---
 
 ## 🧮 Step 2: USB Serial Data Logging
